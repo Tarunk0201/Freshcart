@@ -44,7 +44,7 @@ const Items = [
     id: 5,
     name: "Raw Fish Pack",
     image: item5,
-    price: 180,
+    price: 187,
     rating: 4.1,
     offer: "15% off",
   },
