@@ -12,7 +12,7 @@ const Items = [
     id: 1,
     name: "Lays Family Pack",
     image: item1,
-    price: 25,
+    price: 30,
     rating: 4.3,
     offer: "10% off",
   },
